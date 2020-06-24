@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\CSHTP\CSHTP\bin\Debug\CSHTP.exe.config
+C:\Users\USER\source\repos\CSHTP\CSHTP\bin\Debug\CSHTP.exe
+C:\Users\USER\source\repos\CSHTP\CSHTP\bin\Debug\CSHTP.pdb
+C:\Users\USER\source\repos\CSHTP\CSHTP\obj\Debug\CSHTP.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CSHTP\CSHTP\obj\Debug\CSHTP.Form1.resources
+C:\Users\USER\source\repos\CSHTP\CSHTP\obj\Debug\CSHTP.Properties.Resources.resources
+C:\Users\USER\source\repos\CSHTP\CSHTP\obj\Debug\CSHTP.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CSHTP\CSHTP\obj\Debug\CSHTP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CSHTP\CSHTP\obj\Debug\CSHTP.exe
+C:\Users\USER\source\repos\CSHTP\CSHTP\obj\Debug\CSHTP.pdb
